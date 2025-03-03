@@ -167,7 +167,7 @@ defaults write com.apple.finder FXPreferredViewStyle -string "clmv"
 ###############################################################################
 
 # Set the icon size of Dock items
-defaults write com.apple.dock tilesize -int 40
+defaults write com.apple.dock tilesize -int 50
 
 # Autohide the Dock
 defaults write com.apple.dock autohide -bool true
