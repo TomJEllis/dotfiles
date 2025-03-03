@@ -102,3 +102,6 @@ source $ZSH/oh-my-zsh.sh
 
 # Add Visual Studio Code (code)
 export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+
+# Add Homebrew bin
+export PATH="\$PATH:/opt/homebrew/bin"
